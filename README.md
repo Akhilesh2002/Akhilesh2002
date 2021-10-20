@@ -1,5 +1,7 @@
 <h2> Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Akhilesh Mehra here. </h2>
-<br>
+
+
+
 ## 👨🏻‍💻 &nbsp; About Me
 - 🎓 Student at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
@@ -22,11 +24,7 @@
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
 <\p>
- 
-<a href="https://github.com/ritikdh440">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh2002&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh2002&theme=buefy&layout=compact" />
-</a>
+
  
 ## Connect with me
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/akhilesh-mehra-0a05b3197/)
