@@ -1,24 +1,33 @@
-### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Akhilesh Mehra here 
+<h2> Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Akhilesh Mehra here. </h2>
+<br>
+## 👨🏻‍💻 &nbsp; About Me
 - 🎓 Student at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
-- 🌱 Gaining knowledge in the domain of Game Development
-- :computer: [Codechef](https://www.codechef.com/users/akhilesh4531)
+- 🌱 Gaining knowledge in the domain of Game Development 
+- 🔭 I’m currently working on Open CV
 - :dart: Polishing my skills of Competitive Programming
+- :computer: [Codechef](https://www.codechef.com/users/akhilesh4531)
+
 
 <p align ="center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh2002&hide=stars&show_icons=true&theme=radical">
 </p>
 
-## Tech Stack
+## 🛠 &nbsp;Tech Stack
 <p>
  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img alt="Unity3D"src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
- <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
+ <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
 <\p>
-
+ 
+<a href="https://github.com/ritikdh440">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilesh2002&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh2002&theme=buefy&layout=compact" />
+</a>
+ 
 ## Connect with me
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/akhilesh-mehra-0a05b3197/)
 [<img width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg">](mailto:akhileshmehra80@gmail.com)
