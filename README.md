@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on Open CV
 - :dart: Polishing my skills of Competitive Programming
 - :computer: [Codechef](https://www.codechef.com/users/akhilesh4531)
+- 📄 : [Resume](https://drive.google.com/file/d/1XLemU6E_s4aoyC890T8mGLkRNi8viSf5/view?usp=sharing)
 
 
 <p align ="center" width = "100%">
