@@ -5,7 +5,6 @@
 ## 👨🏻‍💻 &nbsp; About Me
 - 🎓 Student at NIT Hamirpur
 - 🔭 Contributed to Gssoc'21!
-- 🌱 Gaining knowledge in the domain of Game Development 
 - 🔭 I’m currently working on Open CV
 - :dart: Polishing my skills of Competitive Programming
 - :computer: [Codechef](https://www.codechef.com/users/akhilesh4531)
@@ -21,7 +20,6 @@
  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
- <img alt="Unity3D"src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
 <\p>
